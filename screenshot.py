@@ -1,0 +1,1 @@
+print('anything except hello world')
